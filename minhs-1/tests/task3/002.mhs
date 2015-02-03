@@ -1,0 +1,5 @@
+main :: Int
+       = let eq :: (Int -> Int -> Int -> Int)
+                  = letfun eq :: (Int -> Int -> Int -> Int) x y z = (x + y) * z;
+         in eq 4 4 8;
+

@@ -1,0 +1,487 @@
+[1;97mRunning test: [0m[37mtask1/5_let/2_application/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/2_application/004.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/2_application/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/2_application/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/2_application/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/006.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/004.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/007.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/1_functions/005.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/003.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/006.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/008.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/004.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/007.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/fac.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/000.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/002.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/001.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/3_recursion/005.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/006.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/004.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/0_simple/005.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/009.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/003.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/006.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/008.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/004.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/007.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/000.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/002.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/001.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/5_let/4_partial_application/005.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/6_programs/test.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/6_programs/lambda.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/6_programs/compose2.mhs[0m[1;97m (worth 2) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/unarynegate/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/009.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1:  Invalid Division
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/006.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/014.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/008.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/010.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/004.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1:  Invalid Division
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/007.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/011.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/primops/005.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/1_primops/listops/003.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/1_primops/listops/004.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/1_primops/listops/002.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/1_primops/listops/001.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/1_primops/partial/000.mhs[0m[1;97m (worth 1) :-  [0m[33mNo .err file found. Printing output...[0m
+minhs-1:  Invalid Division
+[1;97mRunning test: [0m[37mtask1/1_primops/partial/002.mhs[0m[1;97m (worth 1) :-  [0m[33mNo .err file found. Printing output...[0m
+minhs-1: Tail called on empty list
+[1;97mRunning test: [0m[37mtask1/1_primops/partial/001.mhs[0m[1;97m (worth 1) :-  [0m[33mNo .err file found. Printing output...[0m
+minhs-1: Head called on empty list
+[1;97mRunning test: [0m[37mtask1/0_basics/main/main.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/0_basics/lists/002.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/0_basics/lists/001.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/0_basics/ints/003.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/0_basics/ints/000.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/0_basics/bools/000.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/0_basics/bools/001.mhs[0m[1;97m (worth 1) :-  [0m[1;92mStdout Check Passed![0m
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/006.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/008.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/004.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/007.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/4_ifthenelse/005.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: If
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/006.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/008.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/004.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/007.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/2_nestedexpr/005.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Implement me!
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/3_variables/003.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/3_variables/000.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/3_variables/002.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mRunning test: [0m[37mtask1/3_variables/001.mhs[0m[1;97m (worth 1) :-  [0m[31mExecutable returned non-zero exit code(1).[0m
+[31mStderr was:[0m
+minhs-1: Let
+
+[31mStdout was:[0m
+
+[1;97mPassed 15 out of 93 tests: 16% Correct. Total of 15 marks.[0m

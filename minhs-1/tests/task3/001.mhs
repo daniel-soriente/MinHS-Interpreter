@@ -1,0 +1,4 @@
+main :: Bool
+       = let eq :: (Int -> Int -> Int -> Bool)
+                  = letfun eq :: (Int -> Int -> Int -> Bool) x y = (==) (x + y);
+         in eq 4 4 8;

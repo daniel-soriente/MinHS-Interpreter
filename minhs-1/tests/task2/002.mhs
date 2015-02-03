@@ -1,0 +1,4 @@
+main :: Bool
+       = let inc :: (Int -> Bool)
+                   = letfun inc :: (Int -> Bool) = (==) 3;
+         in inc 3;

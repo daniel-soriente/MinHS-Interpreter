@@ -1,0 +1,7 @@
+main :: Int
+       = let a :: Int = 3;
+             b :: [Int] = Cons 1 Nil;
+             c :: Int = 1;
+             d :: Int = 4;
+             e :: [Int] = Cons 2 b;
+         in a + head (tail e) * (c * d);
